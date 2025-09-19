@@ -1,3 +1,7 @@
+👉 So in short:
+We built a full authentication system with signup, login, JWT token storage, protected routes, logout, and reset password, using MERN stack + JWT in a secure and scalable way.
+
+
 🔐 Authentication Project (Summary)
 
 We built a complete authentication system step by step with React frontend + Express backend + MongoDB + JWT.
